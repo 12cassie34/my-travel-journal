@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55px;
+  background-color: #F55A5A;
+  color:#FFFFFF;
+}
+
+.header__title {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 7px;
+  font-size: 14px;
+}
